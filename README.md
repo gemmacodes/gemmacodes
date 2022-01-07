@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working as a junior (full-stack) developer at Bumble
 - 🌱 I’m also currently learning Android development at CodeOp (all thanks to Bumble Tech Academy!)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am passionate about dancing to swing and classic rock'n'roll :)
 
 <!--
 **switcherette/switcherette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

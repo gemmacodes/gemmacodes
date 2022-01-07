@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I am switcherette 👋
+
+- 🔭 I’m currently working as a junior full-stack developer at Bumble
+- 🌱 I’m currently learning Android development at CodeOp (all thanks to Bumble Tech Academy!)
+- 📫 How to reach me: switcherette@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am passionate about dancing to swing and classic rock'n'roll :)
 
 <!--
 **switcherette/switcherette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

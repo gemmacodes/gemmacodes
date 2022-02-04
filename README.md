@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a junior (full-stack) developer at Bumble
 - 🌱 I’m also currently learning Android development at CodeOp (all thanks to Bumble Tech Academy!)
-- ⚡ I used to work (and still very much enjoy) in science communication!
+- ⚡ I used to work (and I'm still very much interested) in science communication!
 
 <!--
 **switcherette/switcherette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

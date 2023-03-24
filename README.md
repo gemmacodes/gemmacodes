@@ -1,8 +1,8 @@
 ### Hi there! I'm Gemma 👋
 
-- 🐝  A junior Android engineer at Bumble
-- 🌱  Also trained in full-stack web developement with JS (all thanks to Bumble Tech Academy!)
-- ⚡   Used to work (and I'm still very much interested) in science communication, women in science & public engagement!
+- 🐝  A junior Android engineer at Bumble [Kotlin]
+- 🌱  Also trained in full-stack web developement [JavaScript, React, Vue.js, Node.js, HTML, CSS, mySQL]
+- ⚡   Used to work (and still very much interested) in science communication, women in science & public engagement!
 
 <!--
 **switcherette/switcherette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

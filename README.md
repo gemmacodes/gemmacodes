@@ -1,7 +1,7 @@
 ### Hi there! I'm Gemma 👋
 
 - 🐝  A junior Android engineer at Bumble [Kotlin]
-- 🌱  Also trained in full-stack web developement [JavaScript, React, Vue.js, Node.js, HTML, CSS, mySQL]
+- 🌱  Also trained in full-stack web development [JavaScript, React, Vue.js, Node.js, HTML, CSS, mySQL]
 - ⚡   Used to work (and still very much interested) in science communication, women in science & public engagement!
 
 <!--
